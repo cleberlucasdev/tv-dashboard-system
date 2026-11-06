@@ -1,4 +1,5 @@
-tv-dashboard-router Lightweight HTTP coordinator for Samsung Tizen NOC dashboards, replacing per-TV mini PCs.
+# tv-dashboard-router
+Lightweight HTTP coordinator for Samsung Tizen NOC dashboards, replacing per-TV mini PCs.
 
 ## Overview
 
