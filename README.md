@@ -1,4 +1,4 @@
-# tv-dashboard-router
+# tv-dashboard-system
 Lightweight HTTP coordinator for Samsung Tizen NOC dashboards, replacing per-TV mini PCs.
 
 ## Overview
